@@ -1,6 +1,6 @@
 # Class Project
 
-**Decription:**
+**Description:**
 
   My program is written in C++ and there are three files. The lexer.cpp, lexer.h, and Analyzer.h.
   The lexer.cpp is the main file and consists of calling the lexer.h and Analyzer.h. lexer.h goes 
