@@ -16,6 +16,6 @@
   2. Extract files.
   3. Open the folder and write whatever you like to input.txt.
   4. Run lexer.exe.
-  5. Now output.txt will the token and lexeme of the input.
+  5. Now output.txt will display the token and lexeme of the input.
 
 ***Sources***: Professor Anthony Le of Cal State Fullerton University.
